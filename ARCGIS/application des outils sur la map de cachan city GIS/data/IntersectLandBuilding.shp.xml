@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="fr"><Esri><CreaDate>20231108</CreaDate><CreaTime>17184800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Analysis Tools.tbx\Intersect" Date="20231108" Time="171848">Intersect "Buildings #;LandCover #" H:\ARCGIS\tp4\TP4\data\IntersectLandBuilding.shp ALL # INPUT</Process></lineage></DataProperties></Esri></metadata>
